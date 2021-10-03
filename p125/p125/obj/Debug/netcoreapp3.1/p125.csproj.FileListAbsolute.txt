@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\p125\p125\bin\Debug\netcoreapp3.1\p125.exe
+C:\Users\HP\source\repos\p125\p125\bin\Debug\netcoreapp3.1\p125.deps.json
+C:\Users\HP\source\repos\p125\p125\bin\Debug\netcoreapp3.1\p125.runtimeconfig.json
+C:\Users\HP\source\repos\p125\p125\bin\Debug\netcoreapp3.1\p125.runtimeconfig.dev.json
+C:\Users\HP\source\repos\p125\p125\bin\Debug\netcoreapp3.1\p125.dll
+C:\Users\HP\source\repos\p125\p125\bin\Debug\netcoreapp3.1\p125.pdb
+C:\Users\HP\source\repos\p125\p125\obj\Debug\netcoreapp3.1\p125.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\p125\p125\obj\Debug\netcoreapp3.1\p125.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\p125\p125\obj\Debug\netcoreapp3.1\p125.AssemblyInfo.cs
+C:\Users\HP\source\repos\p125\p125\obj\Debug\netcoreapp3.1\p125.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\p125\p125\obj\Debug\netcoreapp3.1\p125.dll
+C:\Users\HP\source\repos\p125\p125\obj\Debug\netcoreapp3.1\p125.pdb
+C:\Users\HP\source\repos\p125\p125\obj\Debug\netcoreapp3.1\p125.genruntimeconfig.cache
+C:\Users\HP\source\repos\p125\p125\obj\Debug\netcoreapp3.1\p125.csproj.AssemblyReference.cache
